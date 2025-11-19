@@ -36,6 +36,18 @@ my-filter-popup/
 
 ---
 
+## 🧩 Installation
+
+1. **Download the ZIP file** of the extension from GitHub.  
+2. In **Qlik Sense Enterprise for Windows**, go to the **QMC (Qlik Management Console)**.  
+3. Open the **Extensions** section.  
+4. Click **Import**, then select the downloaded ZIP file (`MyFilterPopup.zip`).  
+5. Once imported, open your Qlik Sense app and add **My-Filter-Popup** to any sheet.
+
+> 🧪 Tested on **Qlik Sense Enterprise for Windows – May 2025 release**.
+
+---
+
 ## Configuration (Properties Panel)
 
 ### **Button label**  
