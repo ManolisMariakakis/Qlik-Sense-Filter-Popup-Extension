@@ -33,7 +33,7 @@ my-filter-popup/
 ├─ MyFilterPopup.css          # Styles (uploaded file)
 ├─ icon.png                   # Icon for the asset panel
 └─ README.md                  # This file
-
+```
 ---
 
 ## 🧩 Installation
@@ -95,3 +95,4 @@ background-color: #1976d2;
 color: #fff;
 border-radius: 4px;
 }
+```
