@@ -10,7 +10,7 @@ This allows you to reuse a single, central filter panel without placing it visua
 
 ## Features
 
-- 🔘 Configurable **button label** (e.g. “Άνοιγμα φίλτρων”)
+- 🔘 Configurable **button label** (e.g. “Open Filters”)
 - 🪟 Popup window with configurable **title**
 - 🧊 Dedicated area inside the popup where you can place:
   - A Qlik **Filter Pane** (by object ID)
