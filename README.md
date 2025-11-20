@@ -29,10 +29,9 @@ Typical extension folder structure:
 ```text
 my-filter-popup/
 ├─ my-filter-popup.qext       # Extension metadata (name, description, icon, etc.)
-├─ my-filter-popup.js         # Main extension logic (define([...])...)
-├─ MyFilterPopup.css          # Styles (uploaded file)
-├─ icon.png                   # Icon for the asset panel
-└─ README.md                  # This file
+├─ my-filter-popup.js         # Main extension logic
+├─ MyFilterPopup.css          # Styles
+└─ icon.png                   # Icon for the asset panel
 ```
 ---
 
